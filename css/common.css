@@ -1,0 +1,21 @@
+.wrap{
+    margin: 0 auto;
+}
+
+@media all and (max-width:450px) {
+    .mo {
+        display: block;
+    }
+   
+
+  }
+
+
+
+
+
+
+
+
+
+
